@@ -1,5 +1,15 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="secretsNeverBeenAnalysed" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.strabag.io" />
+          <token>df9adf99dfc9dfcedf98df99df98dfc8dfcbdf9bdf98dfcbdf9cdf99dfcedfcfdfccdf9bdfccdf9cdf9bdf9edf9fdf9adfcbdfc9dfcedf9bdf98df9ddf92df9edfc8df9ddf9cdfcedf9edfc8df9bdfce</token>
+          <option name="name" value="sonar.strabag.io" />
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules />
   </component>
 </application>

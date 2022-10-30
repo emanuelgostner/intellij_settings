@@ -1,0 +1,9 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="C:/se/Emanuel/git.app.strabag.com/se3/Identity/mySite/services/sites" />
+      </list>
+    </option>
+  </component>
+</application>

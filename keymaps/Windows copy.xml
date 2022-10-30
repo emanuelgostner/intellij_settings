@@ -34,4 +34,8 @@
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="SurroundWithLiveTemplate" />
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+    <keyboard-shortcut first-keystroke="alt dead_acute" />
+  </action>
 </keymap>

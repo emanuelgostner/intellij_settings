@@ -16,7 +16,13 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="db2.jtopen">
+      <artifact id="JTOpen DB2 iSeries" name="JTOpen DB2 iSeries" use="true" version="10.4" />
       <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="derby.embedded">
       <option name="auto-sync" value="true" />
